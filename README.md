@@ -5,7 +5,7 @@
 
 <table align="center"><tr><td>
   
-- 🔭 Recently Finished: [Inner Worlds](https://github.com/Inner-Worlds) and [React Select](https://github.com/kassandraleyba/react-select)
+- 🔭 Recently Working: [TeamCare](https://github.com/NobleDentistry/teamcare)
   
 
 - 🌱 I’m currently learning React, JavaScript, TypeScript  
