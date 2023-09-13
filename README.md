@@ -1,14 +1,14 @@
 <br>
  
 
- ### <div align="center"> Hi there 👋 I'm Mueez, a software engineer & Ruby On Rails Developer </div>
+ ### <div align="center"> Hi there 👋 I'm Mueez, a Software Engineer & Ruby On Rails Developer </div>
 
 <table align="center"><tr><td>
   
 - 🔭 Recently Working: [TeamCare](https://github.com/NobleDentistry/teamcare)
   
 
-- 🌱 I’m currently learning React, JavaScript, TypeScript  
+- 🌱 I’m currently learning React, JavaScript, and TypeScript  
   
 
 - ❓ Let's chat about coding and hobbies! 🪴🏃‍♀️🚴📚🍻☕️🎶✨ 
