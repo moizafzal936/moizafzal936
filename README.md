@@ -5,7 +5,7 @@
 
 <table align="center"><tr><td>
   
-- 🔭 Recently Working: [TeamCare](https://github.com/NobleDentistry/teamcare)
+- 🔭 Recently Working: [TeamCare](https://www.teamcaredental.com/)
   
 
 - 🌱 I’m currently learning React, JavaScript, and TypeScript  
